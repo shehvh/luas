@@ -402,11 +402,11 @@ engine.exec("fps_max 0")
 print("Loading...")
 print("Initializing shetech...")
 print("done, <3 ")
-print("id/neksusha")
-print("dsc.gg/lagcomp")
+print("id/neksushka")
+print("github.com/shehvh")
 
 local MenuSelection = gui.add_listbox('Current.Tab', "lua>tab a", 7, false, { '--->   Global                                 <---', '--->   Rage                                   <---',  '--->   AntiAim                               <---', '--->   Anti-Aim-helpers                  <---', '--->   Fakelag++                            <---','--->   Misc                                    <---', '--->   UI                                       <---',  })
-local Misc_list = gui.add_listbox("Information", "lua>tab a", 3, true, {"https://dsc.gg/lagcomp", "Owner-meowsync",})
+local Misc_list = gui.add_listbox("Information", "lua>tab a", 3, true, {"https://github.com/shehv", "Owner-meowsync",})
 local v14 = "lua>tab a>";
 local v15 = "lua>tab b>";
 
